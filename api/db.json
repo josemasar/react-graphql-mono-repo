@@ -1,0 +1,23 @@
+{"persons": [
+        {
+            "name": "Gabriel",
+            "phone": "1234567",
+            "street": "Calle GraphQL",
+            "city": "Berlin",
+            "id": "123"
+        },
+        {
+            "name": "Lucia",
+            "street": "Calle Apollo",
+            "city": "NY",
+            "id": "456"
+        },
+        {
+            "name": "Sergio",
+            "phone": "00000001",
+            "street": "Calle React",
+            "city": "Berlin",
+            "id": "789"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "react-graqhql",
+  "version": "1.0.0",
+  "description": "",
+  "workspaces": [
+    "api",
+    "frontend"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "dev": "npm run dev --workspace=frontend",
+    "build": "npm run build --workspace=frontend",
+    "preview": "npm run preview --workspace=frontend",
+    "api": "npm run dev --workspace=api",
+    "api:json": "npm run json-server --workspace=api"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
